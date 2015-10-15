@@ -6,18 +6,21 @@
       <Name>Americas</Name>
       <Number></Number>
 	  <IntlNumber></IntlNumber>
+    <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>APR</Name>
       <Number></Number>
 	  <IntlNumber></IntlNumber>
+    <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>EMEA</Name>
       <Number></Number>
 	  <IntlNumber></IntlNumber>
+    <Toll></Toll>
       <ID></ID>
     </Item>
   </DialIns>
@@ -34,6 +37,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
@@ -41,30 +45,35 @@
       <Name>Adelaide</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Brisbane</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Melbourne</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Perth</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Sydney</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -80,6 +89,7 @@
       <Name>Vienna</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -88,6 +98,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -95,6 +106,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -123,6 +135,7 @@
       <Name>Brussels</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -131,6 +144,7 @@
       <TollFree>Y</TollFree>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -138,6 +152,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -152,6 +167,7 @@
       <Name>Sao Paolo</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -167,6 +183,7 @@
       <Number></Number>
       <TollFree>Y</TollFree> 
 	  <IntlNumber></IntlNumber>
+    <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -189,6 +206,7 @@
       <Name>China</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -219,6 +237,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -233,6 +252,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -252,6 +272,7 @@
       <Name>Copenhagen</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -266,6 +287,7 @@
       <Name>Santo Domingo</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -273,6 +295,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -294,6 +317,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -314,6 +338,7 @@
       <Name>Helsinki</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -321,6 +346,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -328,6 +354,7 @@
       <Name>Paris</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -343,18 +370,21 @@
       <Name>Berlin</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Frankfurt</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Munich</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -370,6 +400,7 @@
       <Name>Athens</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -378,6 +409,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -385,6 +417,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -392,6 +425,7 @@
       <Name>Hong Kong</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -413,6 +447,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -420,6 +455,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
@@ -429,6 +465,7 @@
       <TollFree>Y</TollFree>
       <OtherText>Bharti only</OtherText>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -437,12 +474,14 @@
       <TollFree>Y</TollFree>
       <OtherText>Airtel only</OtherText>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Bangalore</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -450,24 +489,28 @@
       <Name>Chennai</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Hyderabad</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Mumbai</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>New Delhi</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -476,6 +519,7 @@
       <TollFree>Y</TollFree>
       <OtherText>PT Inodosat only</OtherText>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -485,6 +529,7 @@
       <TollFree>Y</TollFree>
       <OtherText>PT Telkom only</OtherText>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -498,6 +543,7 @@
       <Name>Dublin</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -505,12 +551,14 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Tel Aviv</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -525,6 +573,7 @@
       <Name>Milan</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -532,6 +581,7 @@
       <Name>Rome</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -540,6 +590,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -547,6 +598,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -555,12 +607,14 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Tokyo</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -576,6 +630,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -583,12 +638,14 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Vilnius</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -602,6 +659,7 @@
       <Name>Luxembourg</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -609,6 +667,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -616,6 +675,7 @@
       <Name>Kuala Lumpur</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -631,6 +691,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -638,6 +699,7 @@
       <Name>Mexico City</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -646,6 +708,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -660,6 +723,7 @@
       <Name>Amsterdam</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -668,6 +732,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -675,6 +740,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -682,12 +748,14 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Oslo</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -702,6 +770,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -723,12 +792,14 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Warsaw</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -744,6 +815,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -751,6 +823,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -778,6 +851,7 @@
       <Name>Moscow</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     <Frequent>Y</Frequent>
     </Item>
@@ -801,6 +875,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -808,6 +883,7 @@
       <Name>Singapore</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -822,6 +898,7 @@
       <Name>Bratislava</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -835,6 +912,7 @@
       <Name>Ljubljana</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -842,6 +920,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -849,6 +928,7 @@
       <Name>Cape Town</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -857,6 +937,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -864,6 +945,7 @@
       <Name>Seoul</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -879,18 +961,21 @@
       <Name>Barcelona</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Madrid</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Madrid</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
 	  </Item>
@@ -906,6 +991,7 @@
       <Name>Stockholm</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -921,18 +1007,21 @@
       <Name>Bern</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Geneva</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
       <Name>Zurich</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -941,6 +1030,7 @@
       <Number></Number>>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -948,6 +1038,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -955,6 +1046,7 @@
       <Name>Bangkok</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -963,6 +1055,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -985,6 +1078,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -992,6 +1086,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -999,6 +1094,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -1007,6 +1103,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
@@ -1014,6 +1111,7 @@
       <Name>London</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -1021,6 +1119,7 @@
       <Name>London</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
     <Item>
@@ -1028,6 +1127,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -1035,6 +1135,7 @@
       <Name>US</Name>
       <Number></Number>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
@@ -1064,6 +1165,7 @@
       <Number></Number>
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
+      <Toll></Toll>
       <ID></ID>
     </Item>
   </PhoneList>
