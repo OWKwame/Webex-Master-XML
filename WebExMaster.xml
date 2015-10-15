@@ -4,1084 +4,1084 @@
   <DialIns>
     <Item>
       <Name>Americas</Name>
-      <Number>+1 281 913 0940</Number>
-	  <IntlNumber>+1 281 913 0940</IntlNumber>
-      <ID>0</ID>
+      <Number></Number>
+	  <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>APR</Name>
-      <Number>+65 6483 1471</Number>
-	  <IntlNumber>+65 6483 1471</IntlNumber>
-      <ID>1</ID>
+      <Number></Number>
+	  <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>EMEA</Name>
-      <Number>+44 20 3574 6873</Number>
-	  <IntlNumber>+44 20 3574 6873</IntlNumber>
-      <ID>2</ID>
+      <Number></Number>
+	  <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
   </DialIns>
   <PhoneList>
     <Item>
       <Name>Argentina</Name>
-      <Number>0800 444 1016</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>9</ID>
+      <ID></ID>
+      
     </Item>
     <Item>
       <Name>Australia</Name>
-      <Number>1800 337 169</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1800 337 169</IntlNumber>
-      <ID>10</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>Adelaide</Name>
-      <Number>08 7002 0130</Number>
-      <IntlNumber>+61 8 7002 0130</IntlNumber>
-      <ID>11</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Brisbane</Name>
-      <Number>07 3087 0178</Number>
-      <IntlNumber>+61 7 3087 0178</IntlNumber>
-      <ID>12</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Melbourne</Name>
-      <Number>03 8256 1740</Number>
-      <IntlNumber>+61 3 8256 1740</IntlNumber>
-      <ID>13</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Perth</Name>
-      <Number>08 6188 4572</Number>
-      <IntlNumber>+61 8 6188 4572</IntlNumber>
-      <ID>14</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Sydney</Name>
-      <Number>02 8985 2370</Number>
-      <IntlNumber>+61 2 8985 2370</IntlNumber>
-      <ID>15</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Austria</Name>
-      <Number>0 800 005 898</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>16</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Vienna</Name>
-      <Number>01253 497 8196</Number>
-      <IntlNumber>+43 1253 497 8196</IntlNumber>
-      <ID>17</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Bahamas</Name>
-      <Number>1 800 205 4776</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 205 4776</IntlNumber>
-      <ID>18</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Bahrain</Name>
-      <Number>800 04 377</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 04 377</IntlNumber>
-      <ID>19</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Barbados</Name>
-      <Number>1 866 855 6594</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>20</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Belarus</Name>
-      <Number>8 820 0 011 0160</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>21</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Belgium</Name>
-      <Number>0800 48325</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>22</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Brussels</Name>
-      <Number>027 920 405</Number>
-      <IntlNumber>+32 27 920 405</IntlNumber>
-      <ID>23</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Bolivia</Name>
       <TollFree>Y</TollFree>
-      <Number>800 100 768</Number>
-      <IntlNumber>800 100 768</IntlNumber>
-      <ID>24</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Bermuda</Name>
-      <Number>1 877 402 7656</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 877 402 7656</IntlNumber>
-      <ID>25</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Brazil</Name>
-      <Number>0800 892 1002</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>26</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Sao Paolo</Name>
-      <Number>11 3957 0526</Number>
-      <IntlNumber>+55 11 3957 0526</IntlNumber>
-      <ID>27</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Bulgaria</Name>
-      <Number>00800 110 0236</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>28</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Canada</Name>
-      <Number>866 296 4240</Number>
+      <Number></Number>
       <TollFree>Y</TollFree> 
-	  <IntlNumber>+1 866 296 4240</IntlNumber>
-      <ID>29</ID>
+	  <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Chile</Name>
-      <Number>123 002 02168</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>30</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>China</Name>
-      <Number>800 819 0132</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>31</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>China</Name>
-      <Number>400 120 9626</Number>
-      <IntlNumber>+86 400 120 9626</IntlNumber>
-      <ID>32</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Colombia</Name>
-      <Number>01 800 9 130 128</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>33</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Costa Rica</Name>
-      <Number>0800 011 1272</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>34</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Costa Rica</Name>
-      <Number>0800 011 1337</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>35</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Croatia</Name>
-      <Number>0 800 302 028</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0 800 302 028</IntlNumber>
-      <ID>36</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Cyprus</Name>
-      <Number>800 95297</Number>
-      <OtherText>landline</OtherText>
+      <Number></Number>
+      
       <TollFree>Y</TollFree>
-      <ID>37</ID>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Czech Republic</Name>
-      <Number>800 701 035</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 701 035</IntlNumber>
-      <ID>38</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Prague</Name>
-      <Number>239 014 984</Number>
-      <ID>39</ID>
+      <Number></Number>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Denmark</Name>
-      <Number>8088 7114</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>40</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Copenhagen</Name>
-      <Number>3272 9215</Number>
-      <IntlNumber>+45 3272 9215</IntlNumber>
-      <ID>41</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Dominican Republic</Name>
-      <Number>1 800 751 9076</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>42</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Santo Domingo</Name>
-      <Number>829 954 8668</Number>
-      <IntlNumber>+1 829 954 8668</IntlNumber>
-      <ID>43</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Ecuador</Name>
-      <Number>1 800 020 545</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 020 545</IntlNumber>
-      <ID>44</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Egypt</Name>
-      <Number>800 0000 188</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>45</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>El Salvador</Name>
-      <Number>8006699</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>46</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Estonia</Name>
-      <Number>800 0100 232</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 0100 232</IntlNumber>
-      <ID>47</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Fiji</Name>
-      <Number>00 800 2539</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>48</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Finland</Name>
-      <Number>0800 773 104</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>49</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Helsinki</Name>
-      <Number>09 2319 4436</Number>
-      <IntlNumber>09 2319 4436</IntlNumber>
-      <ID>50</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>France</Name>
-      <Number>08 05 63 2867</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>08 05 63 2867</IntlNumber>
-      <ID>51</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Paris</Name>
-      <Number>01 70 37 7140</Number>
-      <IntlNumber>+33 1 70 37 7140</IntlNumber>
-      <ID>52</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Germany</Name>
-      <Number>0800 664 7541</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>53</ID>
+      
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>Berlin</Name>
-      <Number>030 300 190 579</Number>
-      <IntlNumber>+49 30 300 190 579</IntlNumber>
-      <ID>54</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Frankfurt</Name>
-      <Number>069 2222 2594</Number>
-      <IntlNumber>+49 69 2222 2594</IntlNumber>
-      <ID>55</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Munich</Name>
-      <Number>089 2030 3283</Number>
-      <IntlNumber>+49 89 2030 3283</IntlNumber>
-      <ID>56</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Greece</Name>
-      <Number>800 848 1082</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>57</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Athens</Name>
-      <Number>211 1983 386</Number>
-      <IntlNumber>+30 211 1983 386</IntlNumber>
-      <ID>58</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Guam</Name>
-      <Number>1 877 301 0136</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 877 301 0136</IntlNumber>
-      <ID>59</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Hong Kong</Name>
-      <Number>800 93 0349</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 93 0349</IntlNumber>
-      <ID>60</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Hong Kong</Name>
-      <Number>3018 6737</Number>
-      <IntlNumber>+852 3018 6737</IntlNumber>
-      <ID>61</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Hungary</Name>
-      <Number>06 800 14726</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>62</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Budapest</Name>
-      <Number>01 778 9030</Number>
-      <OtherText>landline</OtherText>
-      <ID>63</ID>
+      <Number></Number>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Iceland</Name>
-      <Number>800 8967</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 8967</IntlNumber>
-      <ID>64</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>India</Name>
-      <Number>1 800 3010 4350</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 3010 4350</IntlNumber>
-      <ID>65</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>India</Name>
-      <Number>000 800 610 5034 </Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
       <OtherText>Bharti only</OtherText>
-      <IntlNumber>000 800 610 5034 </IntlNumber>
-      <ID>158</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>India</Name>
-      <Number>000 800 650 4025</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
       <OtherText>Airtel only</OtherText>
-      <IntlNumber>000 800 650 4025</IntlNumber>
-      <ID>66</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Bangalore</Name>
-      <Number>080 39417180</Number>
-      <IntlNumber>+91 80 39417180</IntlNumber>
-      <ID>67</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Chennai</Name>
-      <Number>44 30061276</Number>
-      <IntlNumber>+91 44 30061276</IntlNumber>
-      <ID>68</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Hyderabad</Name>
-      <Number>40 30644055</Number>
-      <IntlNumber>+91 40 30644055</IntlNumber>
-      <ID>69</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Mumbai</Name>
-      <Number>022 30985358</Number>
-      <IntlNumber>+91 22 30985358</IntlNumber>
-      <ID>70</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>New Delhi</Name>
-      <Number>011 39417180</Number>
-      <IntlNumber>+91 11 39417180</IntlNumber>
-      <ID>71</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Indonesia</Name>
-      <Number>001 803 017 9162</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
       <OtherText>PT Inodosat only</OtherText>
-      <IntlNumber>001 803 017 9162</IntlNumber>
-      <ID>72</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Indonesia</Name>
-      <Number>007 803 017 9162</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
       <OtherText>PT Telkom only</OtherText>
-      <IntlNumber>007 803 017 9162</IntlNumber>
-      <ID>73</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Ireland</Name>
-      <Number>1 800 93 2401</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>74</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Dublin</Name>
-      <Number>01436 7793</Number>
-      <IntlNumber>+353 1436 7793</IntlNumber>
-      <ID>75</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Israel</Name>
-      <Number>180 9462557</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>180 9462557</IntlNumber>
-      <ID>76</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Tel Aviv</Name>
-      <Number>3 7630668</Number>
-      <IntlNumber>+972 3 7630668</IntlNumber>
-      <ID>77</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Italy</Name>
-      <Number>800 98 5897</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>78</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Milan</Name>
-      <Number>02 36 26 9529</Number>
-      <IntlNumber>+39 02 36 26 9529</IntlNumber>
-      <ID>79</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Rome</Name>
-      <Number>06 87 50 0891</Number>
-      <IntlNumber>+39 06 87 50 0891</IntlNumber>
-      <ID>80</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Jamaica</Name>
-      <Number>1 800 205 0328</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 205 0328</IntlNumber>
-      <ID>81</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Japan</Name>
-      <Number>012 099 4948</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>012 099 4948</IntlNumber>
-      <ID>82</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Japan</Name>
-      <Number>0053 125 0120</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0053 125 0120</IntlNumber>
-      <ID>83</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Tokyo</Name>
-      <Number>03 4503 6071</Number>
-      <IntlNumber>+81 34 503 6071</IntlNumber>
-      <ID>84</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Kazakhstan</Name>
-      <Number>8 800 333 7376</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>85</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Latvia</Name>
-      <Number>8000 3339</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>8000 3339</IntlNumber>
-      <ID>88</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Lithuania</Name>
-      <Number>8800 312 23</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>8800 312 23</IntlNumber>
-      <ID>89</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Vilnius</Name>
-      <Number>52054226</Number>
-      <IntlNumber>+370 52054226</IntlNumber>
-      <ID>90</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Luxembourg</Name>
-      <Number>8002 6595</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>91</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Luxembourg</Name>
-      <Number>2 487 1157</Number>
-      <IntlNumber>+352 2 487 1157</IntlNumber>
-      <ID>92</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Malaysia</Name>
-      <Number>1 800 81 4451</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 81 4451</IntlNumber>
-      <ID>93</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Kuala Lumpur</Name>
-      <Number>03 7724 4331 </Number>
-      <IntlNumber>03 7724 4331</IntlNumber>
-      <ID>94</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Malta</Name>
-      <Number>800 62176</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>95</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Mexico</Name>
-      <Number>01 800 926 9658</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>01 800 926 9658</IntlNumber>
-      <ID>96</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Mexico City</Name>
-      <Number>462 40228</Number>
-      <IntlNumber>462 40228</IntlNumber>
-      <ID>97</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Monaco</Name>
-      <Number>800 93642</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 93642</IntlNumber>
-      <ID>98</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Netherlands</Name>
-      <Number>0800 9494592</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>99</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Amsterdam</Name>
-      <Number>020 797 5872</Number>
-      <IntlNumber>+31 20 797 5872</IntlNumber>
-      <ID>100</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>New Zealand</Name>
-      <Number>0800 888 167</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0800 888 167</IntlNumber>
-      <ID>101</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Nicaragua</Name>
-      <Number>00 1800 220 2067</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>00 1800 220 2067</IntlNumber>
-      <ID>102</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Norway</Name>
-      <Number>800 13504</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 13504</IntlNumber>
-      <ID>103</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Oslo</Name>
-      <Number>2103 3188</Number>
-      <IntlNumber>+47 2103 3188</IntlNumber>
-      <ID>104</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Oman</Name>
-      <Number>800 77617</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>105</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Panama</Name>
-      <Number>001800 204 3574</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>001800 204 3574</IntlNumber>
-      <ID>106</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Peru</Name>
-      <Number>08 007 7725</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>107</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Philippines</Name>
-      <Number>1 800 1 110 0991</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>108</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Poland</Name>
-      <Number>800 702 946</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>800 702 946</IntlNumber>
-      <ID>109</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Warsaw</Name>
-      <Number>222 120 148</Number>
-      <IntlNumber>+48 222 120 148</IntlNumber>
-      <ID>110</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Portugal</Name>
-      <Number>800 788 145</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>111</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Puerto Rico</Name>
-      <Number>1 877 896 4038</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>+1 877 896 4038</IntlNumber>
-      <ID>154</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Qatar</Name>
-      <Number>00800 100 341</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>00800 100 341</IntlNumber>
-      <ID>112</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Romania</Name>
-      <Number>0800 8955 37</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>113</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Bucharest</Name>
-      <Number>02 1794 0813</Number>
-      <OtherText>landline</OtherText>
-      <ID>114</ID>
+      <Number></Number>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Russia</Name>
-      <Number>8 10 8002 8341012</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>115</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Moscow</Name>
-      <Number>495 249 9823</Number>
-      <IntlNumber>+7 495 249 9823</IntlNumber>
-      <ID>156</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>St. Kitts and Nevis</Name>
-      <Number>1 800 205 9252</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>117</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Saudi Arabia</Name>
-      <Number>800 811 0263</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>118</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Singapore</Name>
-      <Number>8006 162 235</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>8006 162 235</IntlNumber>
-      <ID>119</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Singapore</Name>
-      <Number>6483 1471</Number>
-      <IntlNumber>+65 6483 1471</IntlNumber>
-      <ID>120</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Slovak Republic</Name>
-      <Number>0800 606 958</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>121</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Bratislava</Name>
-      <Number>02 33456338</Number>
-      <IntlNumber>+421 2 33456338</IntlNumber>
-      <ID>122</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Slovenia</Name>
-      <Number>0 80 080 471</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>123</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Ljubljana</Name>
-      <Number>016 003 991</Number>
-      <IntlNumber>+386 16 003 991</IntlNumber>
-      <ID>124</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>South Africa</Name>
-      <Number>0800 982 957</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0800 982 957</IntlNumber>
-      <ID>125</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Cape Town</Name>
-      <Number>021 300 2421</Number>
-      <IntlNumber>+27 21 300 2421</IntlNumber>
-      <ID>126</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
 	    <Item>
       <Name>South Korea</Name>
-      <Number>26 022 1256</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>+82 26 022 1256</IntlNumber>
-      <ID>86</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Seoul</Name>
-      <Number>02 3483 7408</Number>
-      <IntlNumber>+82 2 3483 7408</IntlNumber>
-      <ID>87</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Spain</Name>
-      <Number>800 300 524</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>127</ID>
+      
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>Barcelona</Name>
-      <Number>93 545 2328</Number>
-      <IntlNumber>+34 545 2328</IntlNumber>
-      <ID>128</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Madrid</Name>
-      <Number>91 414 6284</Number>
-      <IntlNumber>+34 91 414 6284</IntlNumber>
-      <ID>129</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Madrid</Name>
-      <Number>91 414 6117</Number>
-      <IntlNumber>+34 91 414 6117</IntlNumber>
-      <ID>130</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
 	  </Item>
     <Item>
       <Name>Sweden</Name>
-      <Number>02 0089 6860</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>131</ID>
+      
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Stockholm</Name>
-      <Number>08 5051 3770</Number>
-      <IntlNumber>+46 8 5051 3770</IntlNumber>
-      <ID>132</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Switzerland</Name>
-      <Number>0800 650 077</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>133</ID>
+      
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>Bern</Name>
-      <Number>031 580 00 82</Number>
-      <IntlNumber>+41 31 580 00 82</IntlNumber>
-      <ID>134</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Geneva</Name>
-      <Number>022 592 78 81</Number>
-      <IntlNumber>+41 22 592 78 81</IntlNumber>
-      <ID>135</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Zurich</Name>
-      <Number>044 580 3463</Number>
-      <IntlNumber>+41 44 580 3463</IntlNumber>
-      <ID>136</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Taiwan</Name>
-      <Number>080 909 9284</Number>>
+      <Number></Number>>
       <TollFree>Y</TollFree>
-      <IntlNumber>080 909 9284</IntlNumber>
-      <ID>137</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Thailand</Name>
-      <Number>001 800 656966</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>001 800 656966</IntlNumber>
-      <ID>138</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Bangkok</Name>
-      <Number>02 105 6127</Number>
-      <IntlNumber>+66 2 105 6127</IntlNumber>
-      <ID>139</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Trinidad and Tobago</Name>
-      <Number>1 800 202 4615</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 800 202 4615</IntlNumber>
-      <ID>140</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
   <Item>
     <Name>Turkey</Name>
-      <Number>0811 213 40 40</Number>
+      <Number></Number>
       <Frequent>Y</Frequent>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>157</ID>
+      
+      <ID></ID>
   </Item>
     <Item>
     <Name>Istanbul</Name>
-      <Number>90 850 390 18 17</Number>
+      <Number></Number>
       <Frequent>Y</Frequent>
-      <ID>155</ID>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Turks and Caicos Islands</Name>
-      <Number>1 877 278 0472</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 877 278 0472</IntlNumber>
-      <ID>142</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>Ukraine</Name>
-      <Number>0800 500 152</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0800 500 152</IntlNumber>
-      <ID>143</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>UAE</Name>
-      <Number>8000 357 02906</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>8000 357 02906</IntlNumber>
-      <ID>144</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>UK</Name>
-      <Number>0800 694 8136</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>0800 694 8136</IntlNumber>
-      <ID>145</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>B</Frequent>
     </Item>
     <Item>
       <Name>London</Name>
-      <Number>020 3574 6873</Number>
-      <IntlNumber>+44 20 3574 6873</IntlNumber>
-      <ID>146</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>London</Name>
-      <Number>08445 790676</Number>
-      <IntlNumber>+44 8445 790676</IntlNumber>
-      <ID>147</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
     <Item>
       <Name>US</Name>
-      <Number>1 866 296 4240</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 866 296 4240</IntlNumber>
-      <ID>148</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>US</Name>
-      <Number>1 281 913 0940</Number>
-      <IntlNumber>+1 281 913 0940</IntlNumber>
-      <ID>149</ID>
+      <Number></Number>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
 	  <Frequent>Y</Frequent>
     </Item>
     <Item>
       <Name>Uruguay</Name>
-      <Number>000 416 205 3272</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>150</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Venezuela</Name>
-      <Number>0 800 162 7182</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>151</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Vietnam</Name>
-      <Number>12011346</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <OtherText>landline</OtherText>
-      <ID>152</ID>
+      
+      <ID></ID>
     </Item>
     <Item>
       <Name>Virgin Islands, US</Name>
-      <Number>877 300 7428</Number>
+      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber>1 877 300 7428</IntlNumber>
-      <ID>153</ID>
+      <IntlNumber></IntlNumber>
+      <ID></ID>
     </Item>
   </PhoneList>
     <Keypad>
     <Item>
       <Key>*0</Key>
       <Description>Operator assistance - conference</Description>
-      <ID>3</ID>
+      <ID></ID>
     </Item>
     <Item>
       <Key>00</Key>
       <Description>Operator assistance - individual</Description>
-      <ID>4</ID>
+      <ID></ID>
     </Item>
     <Item>
       <Key>*6/#6</Key>
       <Description>Mute/unmute your own line</Description>
-      <ID>5</ID>
+      <ID></ID>
     </Item>
   </Keypad>
 </Settings>
