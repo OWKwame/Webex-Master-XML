@@ -3,21 +3,19 @@
   <DateUpdated date="2015.10.14" />
   <DialIns>
     <Item>
-      <Name>Americas</Name>
-      <Number></Number>
-	  <IntlNumber></IntlNumber>
-    <Toll></Toll>
+      <Name>US/Canada Toll</Name>
+      <Number>1-408-792-6300</Number>
+    <Toll>Y</Toll>
       <ID>1</ID>
     </Item>
     <Item>
-      <Name>APR</Name>
-      <Number></Number>
-	  <IntlNumber></IntlNumber>
-    <Toll></Toll>
+      <Name>US/Canada Toll Free</Name>
+      <Number>1-877-668-4490</Number>
+    <TollFree>Y</TollFree>
       <ID>2</ID>
     </Item>
     <Item>
-      <Name>EMEA</Name>
+      <Name>Empty</Name>
       <Number></Number>
 	  <IntlNumber></IntlNumber>
     <Toll></Toll>
@@ -37,1078 +35,281 @@
       <TollFree>Y</TollFree>
       <IntlNumber></IntlNumber>
       <ID>5</ID>
-	  
     </Item>
     <Item>
-      <Name>Adelaide</Name>
-      <Number></Number>
+      <Name>Austria Toll</Name>
+      <Number>+43 1 253021543</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>6</ID>
     </Item>
     <Item>
-      <Name>Brisbane</Name>
-      <Number></Number>
+      <Name>Austria Toll Free</Name>
+      <Number>0800-297261</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Melbourne</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Perth</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Sydney</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Austria</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>7</ID>
     </Item>
     <Item>
-      <Name>Vienna</Name>
-      <Number></Number>
+      <Name>Belgium Toll</Name>
+      <Number>+32 28948316</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>8</ID>
     </Item>
     <Item>
-      <Name>Bahamas</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
+      <Name>Belgium Toll Free</Name>
+      <Number>0800-72114</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <TollFree>Y</TollFree>
+      <ID>9</ID>
     </Item>
     <Item>
-      <Name>Bahrain</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
+      <Name>Brazil Toll Free</Name>
+      <Number>0800-8922408</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Barbados</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>10</ID>
     </Item>
     <Item>
-      <Name>Belarus</Name>
-      <Number></Number>
+      <Name>Bulgaria Toll Free</Name>
+      <Number>0080-0118-1143</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>11</ID>
     </Item>
     <Item>
-      <Name>Belgium</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Brussels</Name>
-      <Number></Number>
+      <Name>Canada Toll</Name>
+      <Number>1-416-915-6521</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>12</ID>
     </Item>
     <Item>
-      <Name>Bolivia</Name>
-      <TollFree>Y</TollFree>
-      <Number></Number>
+      <Name>Canada Toll Free</Name>
+      <Number>1-855-243-2920</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <TollFree>Y</TollFree>
+      <ID>13</ID>
     </Item>
     <Item>
-      <Name>Bermuda</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
+      <Name>China - North Toll Free</Name>
+      <Number>10-800-714-1683</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Brazil</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>14</ID>
     </Item>
     <Item>
-      <Name>Sao Paolo</Name>
-      <Number></Number>
+      <Name>China - South Toll Free</Name>
+      <Number>10-800-140-1718</Number>
+      <TollFree>Y</TollFree>
+      <ID>15</ID>
+    </Item>
+    <Item>
+      <Name>Croatia Toll Free</Name>
+      <Number>0800-22-3232</Number>
+      <TollFree>Y</TollFree>
+      <ID>16</ID>
+    </Item>
+    <Item>
+      <Name>Czech Republic Toll</Name>
+      <Number>42-2288-82893</Number>
+      <Toll>Y</Toll>
+      <ID>17</ID>
+    </Item>
+    <Item>
+      <Name>Czech Republic Toll Free</Name>
+      <Number>8007-01495</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Bulgaria</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>18</ID>
     </Item>
     <Item>
-      <Name>Canada</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree> 
+      <Name>Denmark Toll</Name>
+      <Number>+45 32727725</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>19</ID>
+    </Item>
+    <Item>
+      <Name>Denmark Toll Free</Name>
+      <Number>80-887289</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>20</ID>
+    </Item>
+    <Item>
+      <Name>Estonia Toll Free</Name>
+      <Number>8000-100353</Number>
+      <TollFree>Y</TollFree>
+      <ID>21</ID>
+    </Item>
+    <Item>
+      <Name>Finland Toll</Name>
+      <Number>+358 9 31584363</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>22</ID>
+    </Item>
+    <Item>
+      <Name>Finland Toll Free</Name>
+      <Number>0-800-9-15117</Number>
+      <TollFree>Y</TollFree>
+      <ID>23</ID>
+    </Item>
+    <Item>
+      <Name>France Toll</Name>
+      <Number>+33 170918647</Number> 
 	  <IntlNumber></IntlNumber>
-    <Toll></Toll>
-      <ID></ID>
+    <Toll>Y</Toll>
+      <ID>24</ID>
     </Item>
     <Item>
-      <Name>Chile</Name>
-      <Number></Number>
+      <Name>France Toll Free</Name>
+      <Number>0800-904071</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>25</ID>
     </Item>
     <Item>
-      <Name>China</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>China</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Colombia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Costa Rica</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Costa Rica</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Croatia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Cyprus</Name>
-      <Number></Number>
-      
-      <TollFree>Y</TollFree>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Czech Republic</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Prague</Name>
-      <Number></Number>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Denmark</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Copenhagen</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Dominican Republic</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Santo Domingo</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Ecuador</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Egypt</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>El Salvador</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Estonia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Fiji</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Finland</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Helsinki</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>France</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Paris</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Germany</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-	  
-    </Item>
-    <Item>
-      <Name>Berlin</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Frankfurt</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Munich</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Greece</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Athens</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Guam</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Hong Kong</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Hong Kong</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Hungary</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Budapest</Name>
-      <Number></Number>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Iceland</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>India</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-	  
-    </Item>
-    <Item>
-      <Name>India</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <OtherText>Bharti only</OtherText>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>India</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <OtherText>Airtel only</OtherText>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Bangalore</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Chennai</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Hyderabad</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Mumbai</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>New Delhi</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Indonesia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <OtherText>PT Inodosat only</OtherText>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Indonesia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <OtherText>PT Telkom only</OtherText>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Ireland</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Dublin</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Israel</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Tel Aviv</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Italy</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Milan</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Rome</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Jamaica</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Japan</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Name>Germany Toll</Name>
+      <Number>+49 69 255114403</Number>
+      <Toll>Y</Toll>
+      <ID>26</ID>
     </Item>
     <Item>
-      <Name>Japan</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Tokyo</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Kazakhstan</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Latvia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Lithuania</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Vilnius</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Luxembourg</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Luxembourg</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Malaysia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Kuala Lumpur</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Malta</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Mexico</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Mexico City</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Monaco</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Netherlands</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Amsterdam</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>New Zealand</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Nicaragua</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Norway</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Oslo</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Oman</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Panama</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Peru</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Philippines</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Poland</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Warsaw</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Portugal</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Puerto Rico</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Qatar</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Romania</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Bucharest</Name>
-      <Number></Number>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Russia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Moscow</Name>
-      <Number></Number>
+      <Name>Germany Toll Free</Name>
+      <Number>0800-1890482</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID
-    </Item>
-    <Item>
-      <Name>St. Kitts and Nevis</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Saudi Arabia</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Singapore</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>27</ID>
     </Item>
     <Item>
-      <Name>Singapore</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Slovak Republic</Name>
-      <Number></Number>
+      <Name>Greece Toll Free</Name>
+      <Number>00800-16-122033550</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>28</ID>
     </Item>
     <Item>
-      <Name>Bratislava</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Name>Hong Kong Toll</Name>
+      <Number>+852 58081912</Number>
+      <Toll>Y</Toll>
+      <ID>29</ID>
     </Item>
     <Item>
-      <Name>Slovenia</Name>
-      <Number></Number>
+      <Name>Hong Kong Toll Free</Name>
+      <Number>800-933667</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>30</ID>
     </Item>
     <Item>
-      <Name>Ljubljana</Name>
-      <Number></Number>
+      <Name>Hungary Toll</Name>
+      <Number>36-1700-8753</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>31</ID>
     </Item>
     <Item>
-      <Name>South Africa</Name>
-      <Number></Number>
+      <Name>Hungary Toll Free</Name>
+      <Number>0680-109850</Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>32</ID>
     </Item>
     <Item>
-      <Name>Cape Town</Name>
-      <Number></Number>
+      <Name>Iceland Toll Free</Name>
+      <Number>800-8303</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-	    <Item>
-      <Name>South Korea</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Seoul</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>33</ID>
     </Item>
     <Item>
-      <Name>Spain</Name>
-      <Number></Number>
+      <Name>India Toll Free</Name>
+      <Number>000800 1008168</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
-	  
-    </Item>
-    <Item>
-      <Name>Barcelona</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Madrid</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>34</ID>
     </Item>
     <Item>
-      <Name>Madrid</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-	  </Item>
-    <Item>
-      <Name>Sweden</Name>
-      <Number></Number>
+      <Name>Indonesia Toll Free</Name>
+      <Number>0018-03016-3553</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
+      <ID>35</ID>
     </Item>
     <Item>
-      <Name>Stockholm</Name>
-      <Number></Number>
+      <Name>Ireland Toll</Name>
+      <Number>+353 1 5260059</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>35</ID>
     </Item>
     <Item>
-      <Name>Switzerland</Name>
-      <Number></Number>
+      <Name>Ireland Toll Free</Name>
+      <Number>1-800-947186</Number>
       <TollFree>Y</TollFree>
-      
-      <ID></ID>
-	  
-    </Item>
-    <Item>
-      <Name>Bern</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>36</ID>
     </Item>
     <Item>
-      <Name>Geneva</Name>
-      <Number></Number>
+      <Name>Israel Toll Free</Name>
+      <Number>1-80-9453553</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Zurich</Name>
-      <Number></Number>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Taiwan</Name>
-      <Number></Number>>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Thailand</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>37</ID>
     </Item>
     <Item>
-      <Name>Bangkok</Name>
-      <Number></Number>
+      <Name>Italy Toll</Name>
+      <Number>+39 02 30410439</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>38</ID>
     </Item>
     <Item>
-      <Name>Trinidad and Tobago</Name>
-      <Number></Number>
+      <Name>Italy Toll Free</Name>
+      <Number>800-875197</Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>38</ID>
     </Item>
-  <Item>
-    <Name>Turkey</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-  </Item>
     <Item>
-    <Name>Istanbul</Name>
-      <Number></Number>
-      <ID></ID>
+      <Name>Japan Toll</Name>
+      <Number>+81 3 45808164</Number>
+      <Toll>Y</Toll>
+      <ID>39</ID>
     </Item>
     <Item>
-      <Name>Turks and Caicos Islands</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
+      <Name>Japan Toll Free</Name>
+      <Number>00531-161211</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Ukraine</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>40</ID>
     </Item>
     <Item>
-      <Name>UAE</Name>
-      <Number></Number>
+      <Name>Latvia Toll Free</Name>
+      <Number>8000-4279</Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>41</ID>
     </Item>
     <Item>
-      <Name>UK</Name>
-      <Number></Number>
+      <Name>Lithuania Toll Free</Name>
+      <Number>88003-1521</Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-	  
+      <ID>42</ID>
     </Item>
     <Item>
-      <Name>London</Name>
-      <Number></Number>
+      <Name>Luxembourg Toll</Name>
+      <Number>+352 20881751</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <Toll>Y</Toll>
+      <ID>43</ID>
     </Item>
     <Item>
-      <Name>London</Name>
-      <Number></Number>
+      <Name>Luxembourg Toll Free</Name>
+      <Number>800-28368</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>US</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>44</ID>
     </Item>
     <Item>
-      <Name>US</Name>
-      <Number></Number>
+      <Name>Malaysia Toll Free</Name>
+      <Number>1-800-815778</Number>
       <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Uruguay</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Venezuela</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Vietnam</Name>
-      <Number></Number>
-      <TollFree>Y</TollFree>
-      
-      <ID></ID>
-    </Item>
-    <Item>
-      <Name>Virgin Islands, US</Name>
-      <Number></Number>
       <TollFree>Y</TollFree>
-      <IntlNumber></IntlNumber>
-      <Toll></Toll>
-      <ID></ID>
+      <ID>45</ID>
     </Item>
   </PhoneList>
     <Keypad>
