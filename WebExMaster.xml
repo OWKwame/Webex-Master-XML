@@ -73,6 +73,7 @@
       <Number>0800-8922408</Number>
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>10</ID>
     </Item>
     <Item>
@@ -100,6 +101,7 @@
       <Number>10-800-714-1683</Number>
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>14</ID>
     </Item>
     <Item>
@@ -190,6 +192,7 @@
       <Name>Greece Toll Free</Name>
       <Number>00800-16-122033550</Number>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>28</ID>
     </Item>
     <Item>
@@ -339,7 +342,6 @@
     <Item>
       <Name>New Zealand Toll</Name>
       <Number>+64 9 9291750</Number>
-      <OtherText></OtherText>
       <Toll>Y</Toll>
       <ID>49</ID>
     </Item>
@@ -354,7 +356,6 @@
       <Name>Norway Toll</Name>
       <Number>+47 21049766</Number>
       <Toll>Y</Toll>
-      <OtherText></OtherText>
       <ID>51</ID>
     </Item>
     <Item>
@@ -466,7 +467,6 @@
       <Name>Switzerland Toll</Name>
       <Number>+41 43 4569565</Number>
       <Toll>Y</Toll>
-      <OtherText></OtherText>
       <ID>68</ID>
     </Item>
     <Item>
@@ -480,7 +480,6 @@
       <Name>Taiwan Toll Free</Name>
       <Number>00801-12-7316</Number>
       <TollFree>Y</TollFree>
-      <OtherText></OtherText>
       <ID>70</ID>
     </Item>
     <Item>
