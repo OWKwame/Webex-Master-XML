@@ -302,6 +302,7 @@
       <Number>+352 20881751</Number>
       <IntlNumber></IntlNumber>
       <Toll>Y</Toll>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>43</ID>
     </Item>
     <Item>
@@ -309,6 +310,7 @@
       <Number>800-28368</Number>
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>44</ID>
     </Item>
     <Item>
@@ -454,6 +456,7 @@
       <Number>+46 8 50513564</Number>
       <IntlNumber></IntlNumber>
       <Toll>Y</Toll>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>66</ID>
     </Item>
     <Item>
@@ -461,12 +464,14 @@
       <Number>020-793250</Number>
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>67</ID>
     </Item>
     <Item>
       <Name>Switzerland Toll</Name>
       <Number>+41 43 4569565</Number>
       <Toll>Y</Toll>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>68</ID>
     </Item>
     <Item>
@@ -474,6 +479,7 @@
       <Number>0800-552983</Number>
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
+      <OtherText>Mobile Blocked</OtherText>
       <ID>69</ID>
     </Item>
     <Item>
