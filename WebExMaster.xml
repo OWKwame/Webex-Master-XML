@@ -3,26 +3,30 @@
   <DateUpdated date="2015.10.14" />
   <DialIns>
     <Item>
-      <Name>US/Canada Toll</Name>
+      <Name>Americas</Name>
       <Number>1-408-792-6300</Number>
-    <Toll>Y</Toll>
       <ID>1</ID>
     </Item>
     <Item>
-      <Name>US/Canada Toll Free</Name>
-      <Number>1-877-668-4490</Number>
-    <TollFree>Y</TollFree>
+      <Name>APR</Name>
+      <Number>+65 31581414</Number>
+    <Toll>Y</Toll>
       <ID>2</ID>
     </Item>
     <Item>
-      <Name>Empty</Name>
-      <Number></Number>
-	  <IntlNumber></IntlNumber>
-    <Toll></Toll>
+      <Name>EMEA</Name>
+      <Number>44-203-478-5285</Number>
       <ID>3</ID>
     </Item>
   </DialIns>
   <PhoneList>
+    <Item>
+      <Name>Americas Toll Free</Name>
+      <Number>1-877-668-4490</Number>
+      <TollFree>Y</TollFree>
+      <IntlNumber></IntlNumber>
+      <ID>73</ID>
+    </Item>
     <Item>
       <Name>Australia Toll</Name>
       <Number>+61 2 85181923</Number>
@@ -310,6 +314,188 @@
       <IntlNumber></IntlNumber>
       <TollFree>Y</TollFree>
       <ID>45</ID>
+    </Item>
+    <Item>
+      <Name>Mexico Toll Free</Name>
+      <Number>001-8005143552</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>46</ID>
+    </Item>
+    <Item>
+      <Name>Netherlands Toll</Name>
+      <Number>+31 20 7947993</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>47</ID>
+    </Item>
+    <Item>
+      <Name>Netherlands Toll Free</Name>
+      <Number>0800-0223566</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>48</ID>
+    </Item>
+    <Item>
+      <Name>New Zealand Toll</Name>
+      <Number>+64 9 9291750</Number>
+      <OtherText></OtherText>
+      <Toll>Y</Toll>
+      <ID>49</ID>
+    </Item>
+    <Item>
+      <Name>New Zealand Toll Free</Name>
+      <Number>0800-459103</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>50</ID>
+    </Item>
+    <Item>
+      <Name>Norway Toll</Name>
+      <Number>+47 21049766</Number>
+      <Toll>Y</Toll>
+      <OtherText></OtherText>
+      <ID>51</ID>
+    </Item>
+    <Item>
+      <Name>Norway Toll Free</Name>
+      <Number>800-16939</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>52</ID>
+    </Item>
+    <Item>
+      <Name>Poland Toll</Name>
+      <Number>48-2221-20698</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>53</ID>
+    </Item>
+    <Item>
+      <Name>Poland Toll Free</Name>
+      <Number>0080-0112-4318</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>54</ID>
+    </Item>
+    <Item>
+      <Name>Portugal Toll Free</Name>
+      <Number>80082-7737</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>55</ID>
+    </Item>
+    <Item>
+      <Name>Romania Toll Free</Name>
+      <Number>080089-5820</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>56</ID>
+    </Item>
+    <Item>
+      <Name>Russia Toll</Name>
+      <Number>7-49598-13967</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>57</ID>
+    </Item>
+    <Item>
+      <Name>Russia Toll Free</Name>
+      <Number>88-00100-9441</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>58</ID>
+    </Item>
+  </Item>
+    <Item>
+    <Name>Singapore Toll Free</Name>
+      <Number>800-101-2600</Number>
+      <TollFree>Y</TollFree>
+      <ID>60</ID>
+    </Item>
+    <Item>
+      <Name>Slovakia Toll Free</Name>
+      <Number>0800-60-6564</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>61</ID>
+    </Item>
+    <Item>
+      <Name>South Africa Toll</Name>
+      <Number>+27 1101 97058</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>62</ID>
+    </Item>
+    <Item>
+      <Name>South Africa Toll Free</Name>
+      <Number>00798-14-2033550</Number>
+      <TollFree>Y</TollFree>
+      <IntlNumber></IntlNumber>
+      <ID>63</ID>
+    </Item>
+    <Item>
+      <Name>Spain Toll</Name>
+      <Number>+34 917911285</Number>
+      <Toll>Y</Toll>
+      <IntlNumber></IntlNumber>
+      <ID>64</ID>
+    </Item>
+    <Item>
+      <Name>Spain Toll Free</Name>
+      <Number>900-937925</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>65</ID>
+    </Item>
+    <Item>
+      <Name>Sweden Toll</Name>
+      <Number>+46 8 50513564</Number>
+      <IntlNumber></IntlNumber>
+      <Toll>Y</Toll>
+      <ID>66</ID>
+    </Item>
+    <Item>
+      <Name>Sweden Toll Free</Name>
+      <Number>020-793250</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>67</ID>
+    </Item>
+    <Item>
+      <Name>Switzerland Toll</Name>
+      <Number>+41 43 4569565</Number>
+      <Toll>Y</Toll>
+      <OtherText></OtherText>
+      <ID>68</ID>
+    </Item>
+    <Item>
+      <Name>Switzerland Toll Free</Name>
+      <Number>0800-552983</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>69</ID>
+    </Item>
+    <Item>
+      <Name>Taiwan Toll Free</Name>
+      <Number>00801-12-7316</Number>
+      <TollFree>Y</TollFree>
+      <OtherText></OtherText>
+      <ID>70</ID>
+    </Item>
+    <Item>
+      <Name>Thailand Toll Free</Name>
+      <Number>0018-00156203-3551</Number>
+      <TollFree>Y</TollFree>
+      <IntlNumber></IntlNumber>
+      <ID>71</ID>
+    </Item>
+    <Item>
+      <Name>UK Toll Free</Name>
+      <Number>08-002061177</Number>
+      <IntlNumber></IntlNumber>
+      <TollFree>Y</TollFree>
+      <ID>72</ID>
     </Item>
   </PhoneList>
     <Keypad>
